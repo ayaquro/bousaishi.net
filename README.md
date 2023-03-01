@@ -1,24 +1,34 @@
-# README
+# 防災士.net
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+地域の防災士をつなぐコミュニティサイト
 
-Things you may want to cover:
+### テーマを選んだ理由
+最近地域の登録防災士として登録はしたものの、
+普段どう活動をしていったらいいのか分からずにいる。
+平常時から、防災士同士のつながりを持つことで、活動のモチベーションを
+維持するとともに、災害発生時にスムーズな連携が図れるのではと考えたため。
 
-* Ruby version
+### ターゲットユーザー
+地域の登録防災士
 
-* System dependencies
+### 主な利用シーン
+- 平常時のフィールドワークでの、危険箇所の記録・共有
+- 地域ごとの防災士の集会や講習会の情報共有
+- 避難訓練や防災イベントなどの自治体からの情報掲示
 
-* Configuration
+## 設計書
+<...>
 
-* Database creation
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
+↑GoogleMap APIを使用予定ですが、未確定です。
